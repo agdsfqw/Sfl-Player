@@ -1,0 +1,47 @@
+```markdown
+# Sfl Player (S-flat) v4.1.3
+
+**让每一台设备，都有平等播放音乐的权利。**
+*Giving every device the equal right to play music.*
+
+Sfl 即 S-flat。一个完全离线、无广告、无第三方依赖的极简本地音乐播放器。安装包体积 ** 330KB**。
+*Sfl stands for S-flat. A completely offline, ad-free, and zero-dependency minimalist local music player. APK size 330KB.*
+
+##  隐私与权限 (Privacy & Permissions)
+
+*   **不申请网络权限**：无联网能力，物理隔绝数据外泄。
+*   **不收集任何数据**：所有曲库信息、封面、歌词、播放记录均仅保存在本地。
+*   **音频读取权限**：仅用于扫描本地曲库。
+*   *No network permissions requested: physically isolated from data leaks.*
+*   *No data collection: all library info, covers, lyrics, and history are stored locally.*
+*   *Audio read permission: used only for local library scanning.*
+
+## ✨ 核心特性 (Features)
+
+*   **极致轻量**：纯原生开发，秒开无延迟。
+*   **标签编辑**：支持 MP3 标签读写，带有**失败回滚机制**（先备份原文件，防损坏）。
+*   **设备均衡记忆**：均衡器按扬声器/耳机/蓝牙/USB 独立记忆并自动重应用。
+*   **双栏适配**：最小宽度 ≥600dp 时（平板/折叠屏）右侧常驻播放面板。
+*   **小部件与微标**：4x2 播放控制部件；支持无损、Hi-Res 音质彩色微标。
+*   **无障碍与双语**：完整 TalkBack 适配，中英双语支持。
+
+*   *Extremely lightweight: Native development, instant launch.*
+*   *Tag editing: MP3 tag read/write with fail-rollback (backup original file first).*
+*   *Device EQ memory: Remembers and reapplies EQ settings per output device.*
+*   *Dual-pane layout: Persistent playback panel on devices ≥600dp.*
+*   *Widget & Badges: 4x2 playback widget; Lossless/Hi-Res audio badges.*
+*   *Accessibility & i18n: Full TalkBack support, bilingual (CN/EN).*
+
+##  制作与致谢 (Credits)
+
+*   **制作 (Dev)**：`agdsfqw`
+*   **测试与监制 (QA & Producer)**：`infinity`
+*   **AI 辅助 (AI Assistant)**：`蓝色大肥鱼 (DeepSeek)`
+*   **致敬 (Tribute)**：[SALT Player](https://github.com/Moriafly/SaltPlayerSource)
+
+## ⚠️ 免责声明 (License)
+
+个人非商业项目，免费使用，不可用于盈利。转载或分发时请保留作者信息与本声明。
+*Personal non-commercial project. Free to use. Commercial use is strictly prohibited. Retain author info and this statement when redistributing.*
+
+**Copyright © 2026 agdsfqw / 蓝色大肥鱼（Deepseek）**
